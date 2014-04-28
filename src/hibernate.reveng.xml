@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="chat" match-name="activitesalon"/>
+  <table-filter match-catalog="chat" match-name="activiteserveur"/>
+  <table-filter match-catalog="chat" match-name="administrateur"/>
+  <table-filter match-catalog="chat" match-name="adresse"/>
+  <table-filter match-catalog="chat" match-name="logsalon"/>
+  <table-filter match-catalog="chat" match-name="logserveur"/>
+  <table-filter match-catalog="chat" match-name="moderateur"/>
+  <table-filter match-catalog="chat" match-name="modere"/>
+  <table-filter match-catalog="chat" match-name="pays"/>
+  <table-filter match-catalog="chat" match-name="salon"/>
+  <table-filter match-catalog="chat" match-name="serveur"/>
+  <table-filter match-catalog="chat" match-name="tyepactivitesalon"/>
+  <table-filter match-catalog="chat" match-name="typeactiviteserveur"/>
+  <table-filter match-catalog="chat" match-name="typesalon"/>
+  <table-filter match-catalog="chat" match-name="user"/>
+</hibernate-reverse-engineering>
